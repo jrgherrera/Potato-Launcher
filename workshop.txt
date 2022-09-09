@@ -1,0 +1,6 @@
+version=1
+id=
+title=Potato Launcher
+description=Headshot any zombie with just potatoes
+tags=
+visibility=public

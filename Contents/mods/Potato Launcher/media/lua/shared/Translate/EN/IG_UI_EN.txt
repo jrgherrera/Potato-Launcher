@@ -1,0 +1,8 @@
+IGUI_EN = {
+
+    IGUI_POTATO_needFuel = "I need fuel",
+    IGUI_POTATO_needBattery = "I need batteries",
+    IGUI_POTATO_charged = "It is already charged",
+    IGUI_POTATO_continue = "No Potato Launcher equipped, continue with your stuff"
+
+}

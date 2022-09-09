@@ -1,0 +1,4 @@
+Recipes_ES = {
+    Recipe_Make_Potato_Launcher = "Crear lanzapatatas",
+    Recipe_Make_Potato_Launcher_Fuel = "Crear combustible para el lanzapatatas",
+}

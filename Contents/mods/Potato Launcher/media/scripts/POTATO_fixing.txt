@@ -1,0 +1,15 @@
+module PotatoLauncher {
+    imports {
+        Base
+    }
+
+    fixing Fix POTATO_PotatoLauncher
+	{
+	   Require: POTATO_PotatoLauncher,
+	   ConditionModifier : 1.5,
+
+       Fixer : DuctTape=2,
+       Fixer : Glue=2,
+       Fixer : Woodglue=2,
+	}
+}

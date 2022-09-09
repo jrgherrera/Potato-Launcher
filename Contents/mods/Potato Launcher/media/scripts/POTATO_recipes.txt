@@ -1,0 +1,33 @@
+module PotatoLauncher
+{
+    imports
+    {
+        Base
+    }
+
+    recipe Make Potato Launcher Fuel
+    {
+        Base.Hairspray/PotatoLauncher.POTATO_SprayPaint,
+        
+        Result:PotatoLauncher.POTATO_Fuel,
+        Time:15.0,
+        NeedToBeLearn:true,
+    }
+
+	recipe Make Potato Launcher
+	{
+	   Base.Pipe,
+       Base.Glue/Base.Woodglue,
+       Base.DuctTape,
+       Base.ElectronicsScrap,
+	   keep Base.Saw/Base.GardenSaw,
+
+	   CanBeDoneFromFloor:true,
+	   Result:PotatoLauncher.POTATO_PotatoLauncher,
+	   Sound:Sawing,
+	   Time:230.0,
+       NeedToBeLearn:true,
+	   OnGiveXP:Recipe.OnGiveXP.None,
+	   AnimNode:SawLog,
+	}
+}

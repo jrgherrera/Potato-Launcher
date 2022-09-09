@@ -1,0 +1,8 @@
+IGUI_AR = {
+
+    IGUI_POTATO_needFuel = "Necesito combustible",
+    IGUI_POTATO_needBattery = "Necesito baterias",
+    IGUI_POTATO_charged = "Ya esta cargada",
+    IGUI_POTATO_continue = "No tienes el lanzapatatas equipado, continua con tus cosas"
+
+}

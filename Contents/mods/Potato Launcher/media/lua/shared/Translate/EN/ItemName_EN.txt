@@ -1,0 +1,6 @@
+ItemName_EN = {
+    ItemName_PotatoLauncher.POTATO_PotatoLauncher = "Potato Launcher",
+    ItemName_PotatoLauncher.POTATO_SprayPaint = "Spray Paint",
+    ItemName_PotatoLauncher.POTATO_Fuel = "Potato Launcher Fuel",
+    ItemName_PotatoLauncher.POTATO_PotatoLauncherMag = "How to build a Potato Launcher",
+}
