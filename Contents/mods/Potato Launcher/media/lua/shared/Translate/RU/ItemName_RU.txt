@@ -1,0 +1,6 @@
+ItemName_AR = {
+    ItemName_PotatoLauncher.POTATO_PotatoLauncher = "Картофельная пушку",
+    ItemName_PotatoLauncher.POTATO_SprayPaint = "Баллончик краски",
+    ItemName_PotatoLauncher.POTATO_Fuel = "Топливо для картофельной пушку",
+    ItemName_PotatoLauncher.POTATO_PotatoLauncherMag = "Как построить картофельную пушку",
+}

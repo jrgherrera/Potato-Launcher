@@ -1,0 +1,8 @@
+IGUI_AR = {
+
+    IGUI_POTATO_needFuel = "Мне нужно топливо",
+    IGUI_POTATO_needBattery = "Мне нужны батарейки",
+    IGUI_POTATO_charged = "Оно уже заряжено",
+    IGUI_POTATO_continue = "Картофельная пушка не экипирована, занимайтесь своими делами"
+
+}
