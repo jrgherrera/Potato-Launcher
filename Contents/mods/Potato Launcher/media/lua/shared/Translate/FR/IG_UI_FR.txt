@@ -1,0 +1,8 @@
+IGUI_FR = {
+
+    IGUI_POTATO_needFuel = "J'ai besoin de carburant",
+    IGUI_POTATO_needBattery = "J'ai besoin de piles",
+    IGUI_POTATO_charged = "C'est déjà chargé",
+    IGUI_POTATO_continue = "Pas de Lance-Patate équipé, continuez avec votre équipement"
+
+}

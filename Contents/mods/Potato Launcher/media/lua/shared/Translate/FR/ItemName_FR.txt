@@ -1,0 +1,6 @@
+ItemName_FR = {
+    ItemName_PotatoLauncher.POTATO_PotatoLauncher = "Lance-Patate",
+    ItemName_PotatoLauncher.POTATO_SprayPaint = "Peinture aérosole",
+    ItemName_PotatoLauncher.POTATO_Fuel = "Carburant pour Lance-Patate",
+    ItemName_PotatoLauncher.POTATO_PotatoLauncherMag = "Comment fabriquer un Lance-Patate",
+}

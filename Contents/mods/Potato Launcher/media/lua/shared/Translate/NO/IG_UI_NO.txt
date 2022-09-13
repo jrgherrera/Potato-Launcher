@@ -1,0 +1,8 @@
+IGUI_NO = {
+
+    IGUI_POTATO_needFuel = "Jeg trenger brensel",
+    IGUI_POTATO_needBattery = "Jeg trenger batterier",
+    IGUI_POTATO_charged = "Den er allerede ladet",
+    IGUI_POTATO_continue = "Ingen potetkaster utstyrt, bare fortsett"
+
+}

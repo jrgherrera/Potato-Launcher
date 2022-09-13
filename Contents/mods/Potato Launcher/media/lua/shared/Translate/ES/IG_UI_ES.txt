@@ -1,4 +1,4 @@
-IGUI_EN = {
+IGUI_ES = {
 
     IGUI_POTATO_needFuel = "Necesito combustible",
     IGUI_POTATO_needBattery = "Necesito baterias",

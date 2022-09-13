@@ -1,0 +1,4 @@
+Recipes_NO = {
+    Recipe_Make_Potato_Launcher = "Lag potetkaster",
+    Recipe_Make_Potato_Launcher_Fuel = "Lag brensel til potetkaster",
+}

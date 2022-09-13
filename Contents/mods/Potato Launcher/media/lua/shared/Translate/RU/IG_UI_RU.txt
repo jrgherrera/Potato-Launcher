@@ -1,4 +1,4 @@
-IGUI_AR = {
+IGUI_RU = {
 
     IGUI_POTATO_needFuel = "Мне нужно топливо",
     IGUI_POTATO_needBattery = "Мне нужны батарейки",

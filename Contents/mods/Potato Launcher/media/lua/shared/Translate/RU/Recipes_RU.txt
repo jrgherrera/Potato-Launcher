@@ -1,4 +1,4 @@
-Recipes_AR = {
+Recipes_RU = {
     Recipe_Make_Potato_Launcher = "Сделать картофельную пушку",
     Recipe_Make_Potato_Launcher_Fuel = "Сделать топливо для картофельной пушку",
 }

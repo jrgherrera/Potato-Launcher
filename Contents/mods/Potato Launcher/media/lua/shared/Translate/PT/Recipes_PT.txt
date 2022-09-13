@@ -1,0 +1,4 @@
+Recipes_PT = {
+    Recipe_Make_Potato_Launcher = "Criar Canhão de Batatas",
+    Recipe_Make_Potato_Launcher_Fuel = "Criar Combustível de Canhão de Batatas",
+}
