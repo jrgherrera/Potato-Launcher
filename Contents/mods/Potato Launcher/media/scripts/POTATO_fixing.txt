@@ -12,4 +12,12 @@ module PotatoLauncher {
        Fixer : Glue=2,
        Fixer : Woodglue=2,
 	}
+
+    fixing Fix POTATO_MetalPotatoLauncher
+	{
+	   Require: POTATO_MetalPotatoLauncher,
+	   ConditionModifier : 4,
+
+       Fixer : BlowTorch=2,
+	}
 }

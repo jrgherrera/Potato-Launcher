@@ -9,7 +9,7 @@ module PotatoLauncher {
         Type = Literature,
         DisplayName = How to build a Potato Launcher,
         Icon = MagazineBlacksmith4,
-        TeachedRecipes = Make Potato Launcher;Make Potato Launcher Fuel,
+        TeachedRecipes = Make Potato Launcher;Make Metal Potato Launcher;Make Potato Launcher Fuel,
         ReplaceOnUse = POTATO_PotatoLauncherMag,
         StaticModel = Magazine,
         WorldStaticModel = MagazineGround,
